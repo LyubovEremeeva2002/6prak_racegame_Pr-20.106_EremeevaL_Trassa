@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">6prak_racegame</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="semafor">Semafor</string>
+    <string name="start">Start</string>
+    <string name="result_label">Result Label</string>
+    <string name="drive">Drive</string>
+</resources>
